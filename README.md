@@ -3,7 +3,7 @@ Second Round Challenge: Front-End Development Task
 
 Create a clone of the front-end interface of the popular dating application "Bumble" (please note: for copyright reasons, do not use the exact name "Bumble" in your application).
 
-Timeline: You have one week from the receipt of this email to complete this task. The submission deadline is 14/05/2025, 11:59 PM
+Timeline: You have one week from the receipt of this email to complete this task. The submission deadline is 15/05/2025, 11:59 PM
 
 Collaboration Option
 You may choose to:
